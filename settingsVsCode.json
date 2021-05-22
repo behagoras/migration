@@ -1,0 +1,66 @@
+{
+    "window.zoomLevel": 1,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "[html]": {
+        // "editor.defaultFormatter": "HookyQR.beautify",
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        // "editor.defaultFormatter": "esbenp.prettier-vscode"
+        
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "team.showWelcomeMessage": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "*.jsx": "javascriptreact",
+    },
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "cSpell.userWords": [
+        "Pokemons",
+        "Roboto",
+        "SPOTIFY",
+        "behagoras",
+        "behar",
+        "dropzone",
+        "giphy",
+        "gravatar",
+        "minmax",
+        "mousike",
+        "platzi",
+        "pokedex",
+        "polyfill",
+        "styl",
+        "unmount",
+        "upsert",
+        "upserted",
+        "webm",
+        "woff"
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Pikachu Theme",
+    "terminal.integrated.rendererType": "dom",
+    "editor.renderWhitespace": "none",
+    "window.title": "${separator}${rootName}${separator}${activeEditorShort}${separator}${rootName}",
+    "window.nativeTabs": true,
+    "zenMode.centerLayout": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "python.jediEnabled": false,
+    "editor.tabSize": 2,
+    "editor.foldingStrategy": "indentation",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "cSpell.language": "en,en-US",
+    "sync.gist": "47188be5f13bc764701833467e13bf35",
+    "editor.wordWrap": "on"
+}

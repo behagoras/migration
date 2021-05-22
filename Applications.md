@@ -1,0 +1,59 @@
+# Applications macOS
+
+- Adobe Acrobat DC
+- Adobe Creative Cloud
+- Adobe Illustrator CC 2018
+- Adobe InDesign 2020
+- Adobe Photoshop CC 2018
+- Android File Transfer.app
+- Android Studio.app
+- Audacity.app
+- Backup and Sync.app
+- Binance.app
+- Bitwarden.app
+- Brave Browser.app
+- Discord.app
+- Docker.app
+- Evernote.app
+- Figma.app
+- FileZilla.app
+- Firefox.app
+- Foxit Reader.app
+- Google Chrome.app
+- Install macOS Mojave.app
+- KeyCastr.app
+- LibreOffice.app
+- Lightshot Screenshot.app
+- MongoDB Compass.app
+- MultiMarkdown Composer.app
+- Notion.app
+- OBS.app
+- OpenEmu.app
+- Pocket.app
+- Postman.app
+- Prepros.app
+- RecordIt.app
+- Safari.app
+- Slack.app
+- Speedtest.app
+- Spotify.app
+- Sublime Text.app
+- SyphonInject.app
+- Telegram.app
+- Trello.app
+- Typora.app
+- Utilities
+- VLC.app
+- Visual Studio Code.app
+- Wacom Tablet.localized
+- WhatsApp.app
+- XAMPP
+- balenaEtcher.app
+- cockatrice.app
+- solidangle
+- visualboyadvance-m.app
+- zoom.us.app
+- 
+
+
+-ZSH
